@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Bússola Financeira",
+    "slug": "BussolaFinanceira",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/appIcon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F2F6F9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "android": {
+      "package": "com.monkode.bussolafinanceira"
+    }
+  }
+}
