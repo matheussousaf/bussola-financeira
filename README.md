@@ -7,10 +7,10 @@
 <p align="center">
 <div>
 
-[![Languages](https://img.shields.io/github/languages/count/matheussousaf/chess?color=5D0CE1&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/matheussousaf/chess?color=5D0CE1&style=flat-square)](https://github.com/wemboava/hackathon-tecban/stargazers)
-[![Forks](https://img.shields.io/github/forks/matheussousaf/chess?color=5D0CE1&style=flat-square)](https://github.com/wemboava/hackathon-tecban/network/members)
-[![Contributors](https://img.shields.io/github/contributors/matheussousaf/chess?color=5D0CE1&style=flat-square)](https://github.com/wemboava/hackathon-tecban/graphs/contributors)
+[![Languages](https://img.shields.io/github/languages/count/matheussousaf/bussola-financeira?color=5D0CE1&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matheussousaf/bussola-financeira?color=5D0CE1&style=flat-square)](https://github.com/matheussousaf/bussola-financeira/stargazers)
+[![Forks](https://img.shields.io/github/forks/matheussousaf/bussola-financeira?color=5D0CE1&style=flat-square)](https://github.com/matheussousaf/bussola-financeira/network/members)
+[![Contributors](https://img.shields.io/github/contributors/matheussousaf/bussola-financeira?color=5D0CE1&style=flat-square)](https://github.com/matheussousaf/bussola-financeira/graphs/contributors)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 > There ain't such thing as free lunch!
 
-Se você é um **jurado** ou quer baixar a solução, nós disponibilizamos uma arquivo **.apk** que pode ser baixado [aqui](https://drive.google.com/drive/folders/17fbCnVLj_lAa8aUmqjZJllz1QEtCucrT?usp=sharing) ou escaneie o QRCODE:
+To download the app: The **.apk** file which can be downloaded [here](https://drive.google.com/drive/folders/17fbCnVLj_lAa8aUmqjZJllz1QEtCucrT?usp=sharing) or just scan the **QRCODE**:
 
 <p align="center">
 <img width="200px" src="./docs/qrcode.png"/>
@@ -34,48 +34,47 @@ Se você é um **jurado** ou quer baixar a solução, nós disponibilizamos uma 
 
 # :pushpin: Summary
 
-- [Descrição](#pencil-description)
+- [Description](#pencil-description)
 - [Features](#rocket-features)
-- [Instalação](#construction_worker-installation)
-- [Iniciando](#runner-getting-started)
+- [Installation](#construction_worker-installation)
+- [Getting Started](#runner-getting-started)
 - [Issues](#bug-issues)
 - [License](#closed_book-license)
 
-# :pencil: Descrição
+# :pencil: Description
 
-A **Bússola Financeira** 🧭 é o aplicativo que vai dar um **upgrade** :sparkles: na forma de você administrar o **seu dinheiro**. Ela é uma plataforma que visa traçar metas de planejamento e economia baseadas no seu perfil e histórico financeiro. Através de _Machine Learning_ e _Inteligência Artificial_ nós asseguramos as melhores decisões de investimento e até mesmo corte de gastos para você conseguir alcançar o seu objetivo :dart:.
+The **Bússola Financeira** 🧭 is an app that will **upgrade** :sparkles: your experience managing your own **money**. It's a modern platform that integrates all of your bank accounts in one dashboard, plan goals and alternatives for **saving money** based on your profile and transaction history.  Through _Machine Learning_ e _Artificial Intelligence_ we secure the best decisions for investments, and even precise spending cut specially for helping you to **reach your goals** :dart:.
 
 # :star: Features
 
-- Sugestões de economia personalizadas baseadas no seu perfil financeiro
-- Investimento automático do arredondamento de pagamentos que terminem em centavos
-- Análise e do seu histórico financeiro e projeção futura de ganhos/economias.
-- Interação via Assistentes Virtuais (Google Assistant/Alexa)
-- Cruzamento de dados de pessoas com o mesmo perfil para estimar investimentos/economias
+- Custom spending suggestions based on your financial profile
+- Automatic investment of your payment's change (Ex.: U\$ 7,20 spent so U\$ 0,80 is invested)
 
-**Obs: O backend do projeto ainda está em construção.**
+- Analysis of you financial historic and future projection of you possible gains/economies.
+- Assistant based interaction (Google Assistant/Alexa)
+- Finding people with the same profile as yours to recommend the best investments/
 
-# :construction_worker: Instalação
+# :construction_worker: Installation
 
-Você precisará instalar o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) primeiro.
+You'll need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first.
 
-Após isso, instale a [expo-cli](https://docs.expo.io/workflow/expo-cli) globalmente e é só clonar o projeto com:
+Then, install the [expo-cli](https://docs.expo.io/workflow/expo-cli) globally and you'll just need to clone the project with:
 
-`git clone https://github.com/wemboava/hackathon-tecban`;
+`git clone https://github.com/matheussousaf/bussola-financeira`
 
-# :rocket: Iniciando
+# :rocket: Getting Started
 
-Para iniciar o **app** em modo de desenvolvimento é só:
+To start the **app** in develoment mode:
 
 `yarn dev`
 
-Obs.: Você precisa ter a [expo-cli](https://docs.expo.io/workflow/expo-cli) instalada globalmente no seu npm.
+Obs.: You have to have the [expo-cli](https://docs.expo.io/workflow/expo-cli) globally installed on your machine.
 
 # :bug: Issues
 
-Se sinta livre para **abrir um novo issue** no [Repositório da Bússola](https://github.com/wemboava/hackathon-tecban). Se você já encontrou uma solução para o seu problema só enviar um **pull request** que se adeque ao [guia de contribuição](https://github.com/wemboava/hackathon-tecban/master/CONTRIBUTING.md).
+Feel free to **open a new issue** in the [Bússola Financeira official repository](https://github.com/matheussousaf/bussola-financeira). If you already got a solution for your problem, feel free to send a **pull request** according to the [contributing guide](https://github.com/matheussousaf/bussola-financeira/master/CONTRIBUTING.md).
 
 # :closed_book: License
 
 Released in 2020 for the TecBan Hackathon.
-This project is under the [MIT license](https://github.com/https://github.com/wemboava/hackathon-tecban/LICENSE).
+This project is under the [MIT license](https://github.com/https://github.com/matheussousaf/bussola-financeira/LICENSE).
